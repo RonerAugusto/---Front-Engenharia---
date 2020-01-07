@@ -23,9 +23,9 @@ será a descoberta de que cooperar é melhor que competir.” (Pietro Ubaldi)
    * motores elétricos            
    * elétrica residencial
    * elétrica Predial
-    *sistemas elétricos para área rural 
-    *sistemas para poços e bombas d'agua para área rural
-    *Energia Fotovoltaica (solar)
+   * sistemas elétricos para área rural 
+   * sistemas para poços e bombas d'agua para área rural
+   * Energia Fotovoltaica (solar)
 
 ```
 ### Engenheiro de Controle e Automação
