@@ -1,7 +1,7 @@
 # Front-Engenharia
 ### Elétrica Automação e Robótica
 
-<img src="imagen/eng.png" width="400" hegth="100">
+<img src="imagen/eng.png" width="550" hegth="100">
 
 
 ```markdown
