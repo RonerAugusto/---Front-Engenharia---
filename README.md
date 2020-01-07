@@ -18,12 +18,14 @@ será a descoberta de que cooperar é melhor que competir.” (Pietro Ubaldi)
 
 ```markdown
     
-   * clp                          *sistemas elétricos para área rural 
-   * Inversores de frequência     *sistemas para poços e bombas d'agua para área rural
-   * motores elétricos            *Energia Fotovoltaica (solar)
+   * clp                         
+   * Inversores de frequência     
+   * motores elétricos            
    * elétrica residencial
    * elétrica Predial
-
+    *sistemas elétricos para área rural 
+    *sistemas para poços e bombas d'agua para área rural
+    *Energia Fotovoltaica (solar)
 
 ```
 ### Engenheiro de Controle e Automação
