@@ -28,7 +28,7 @@ será a descoberta de que cooperar é melhor que competir.” (Pietro Ubaldi)
 ```
 ### Engenheiro de Controle e Automação
 ### CREA-MS:63876
-### Escritori: Rua Dos Topógrafos 345 Campo Grande-MS CEP:79073016
+### Escritorio: Rua Dos Topógrafos 345 Campo Grande-MS CEP:79073016
 ## email : RonerAugusto@protonmail.com
 ### Contato (67) 99128-1273
 ### what's (67) 99128-1273
