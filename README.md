@@ -20,7 +20,7 @@ será a descoberta de que cooperar é melhor que competir.” (Pietro Ubaldi)
     
    * clp                          * sistemas elétricos para área rural 
    * Inversores de frequência     * sistemas para poços e bombas d'agua para área rural
-   * motores elétricos 
+   * motores elétricos            * Energia Fotovoltaica (solar)
    * elétrica residencial
    * elétrica Predial
 
